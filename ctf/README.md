@@ -19,7 +19,7 @@
 #### [Practice Materials](Practice%20Materials/)
 - [iptables Template](Practice%20Materials/iptables-template.sh) ⇒ iptables is even yuckier than bind9, so here's a template you can follow when setting up iptables rules
   - iptables is the "lowest-level" firewalling solution, and that gives it some distinct advantages over ufw or firewalld - namely, red team can just remove those when they inevitably compromise you
-- [Illinois Tech Practice Range Network Diagram](Practice%20Materials/practice.jpg) ⇒ the practice network Illinois Tech gave to students in 2023 so they could prepare for the competition - each student got their own unique copy to play around with
+- [Illinois Tech Practice Range Network Diagram](Practice%20Materials/practice.jpg) ⇒ 
   - The actual infrastructure we use for hosting our practice range is fully documented [here](https://github.com/RedefiningReality/Proxmox-Remote-Management/blob/main/Web.md), and if you're a visual learner you can watch [this series](https://youtube.com/playlist?list=PLSpsCUl2cY8at6Dr0c28G6-yC1exBnqrR) on YouTube instead.
 
 If you want to play around with some Python scripts I wrote for logging all command line history and monitoring logins, feel free to check out my [Linux Defence Scripts](https://github.com/RedefiningReality/Linux-Defence-Scripts) repo. They're pretty basic, and if I were to rewrite them now I'd probably take a different approach, but they work!
