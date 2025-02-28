@@ -1,12 +1,3 @@
-# Linux Defence Materials
-A repository of helpful materials related to Linux defence
-
-This was originally created for the [NCAE Cyber Games competition](https://www.ncaecybergames.org) in an effort to make Illinois Institute of Technology's resources public and share our knowledge with the community, in the spirit of the competition. However, it's certainly not limited to that scope. I still use and make occasional edits to my Linux Commands Cheat Sheet and Defence Checklist to this day. Enjoy, and feel free to submit a GitHub issue with any feedback or questions!
-
-### Repository Contents
-If you're just getting started, check out the [NCAE Cyber Sandbox Tutorials](https://www.youtube.com/playlist?list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M) on YouTube that will give you an introduction to using Linux and Linux defence concepts.
-
-**Note:** Where relevant, the links on this README (with the exception of NCAE checklists) are to the original Google Docs, which may be easier to read than the PDF versions in GitHub. Also, if you open them on a PC you get a nice document outline on the side that makes them very easy to navigate! Also also, I cannot guarantee the PDFs in this repo stay up-to-date, so I highly recommend using the Google Docs versions.
 
 **tl;dr use the links in this README**
 #### [Linux Terminal](Linux%20Terminal/)
